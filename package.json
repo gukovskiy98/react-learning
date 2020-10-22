@@ -16,6 +16,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "author": "Nikita Gukovskiy <GN1998@yandex.ru>",
   "eslintConfig": {
     "extends": "react-app"
   },
